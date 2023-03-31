@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-nodes: 172.17.0.2:9300
+      cluster-name: es-node0
