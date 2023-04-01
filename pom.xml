@@ -20,6 +20,7 @@
         <module>atm-springboot-es</module>
         <module>atm-springboot-jetty</module>
         <module>atm-springboot-tomcat</module>
+        <module>atm-springboot-webflux</module>
     </modules>
 
     <properties>
