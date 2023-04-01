@@ -18,6 +18,8 @@
 
     <modules>
         <module>atm-springboot-es</module>
+        <module>atm-springboot-jetty</module>
+        <module>atm-springboot-tomcat</module>
     </modules>
 
     <properties>
